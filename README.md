@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eamcn
-- 📫 How to reach me: @eamcn9 on instagram
+
 
 <!---
 eamcn/eamcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
